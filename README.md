@@ -7,11 +7,11 @@
 
 I'm a <b>[Computer Science Engineering -1st year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on [project or internship].
-- 🌱 I’m currently learning [specific technology or skill].
-- 🤔 I’m looking for help with [specific problem or challenge].
-- 💬 Ask me about [anything related to your interests or skills].
-- 📫 How to reach me: [your email or other contact information].
+- 🔭 I’m currently working on Web Development Projects.
+- 🌱 I’m currently learning Java Script.
+- 🤔 I’m looking for help with .
+- 💬 Ask me about 
+- 📫 How to reach me:.
 - 😄 Pronouns: [She/Her].
 - ⚡ Fun fact: [I'm An INTROVERT and SHORT-TEMPERED PERSON].
 

@@ -1,17 +1,17 @@
 
 
-## [Sameeha Firdaus]
+Sameeha Firdaus
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
 
-I'm a <b>[Computer Science Engineering -1st year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
+I'm a <b>[Computer Science Engineering -2st year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning Java Script.
-- 🤔 I’m looking for help with .
-- 💬 Ask me about 
-- 📫 How to reach me:.
+- 🔭 I’m currently working on Python Projects.
+- 🌱 I’m currently learning Python.
+- 🤔 I’m looking for help with Data Structure And Algorithms .
+- 💬 Ask me about HTML,CSS,C,C++,Python.
+- 📫 How to reach me:
 - 😄 Pronouns: [She/Her].
 - ⚡ Fun fact: [I'm An INTROVERT and SHORT-TEMPERED PERSON].
 

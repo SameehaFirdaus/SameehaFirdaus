@@ -1,11 +1,9 @@
-<img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)
+<img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)"
 " alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm Sameeha Firdaus</h1>
 <h3 align="center">Passionate Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="![Uploading git.gif…]()"
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameehafirdaus" alt="sameehafirdaus" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="![git](https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87)"
+">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sameeha-firdaus-388983294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameeha-firdaus-388983294/" height="30" width="40" /></a>

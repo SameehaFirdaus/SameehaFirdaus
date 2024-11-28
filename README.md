@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sameeha Firdaus</h1>
 <h3 align="center">Passionate Python Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="![git](https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87)"
+<img align="right" alt="Coding" width="300" src="![git](https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87)"
 ">
 
 <h3 align="left">Connect with me:</h3>

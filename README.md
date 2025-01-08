@@ -1,9 +1,9 @@
-<img src="https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4" alt="MasterHead" style="display: block; margin: auto; width: 100%;" />
+<img src="https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4" alt="MasterHead" style="width: 100%; display: block;" />
 
 <h1 align="center">Hi 👋, I'm Sameeha Firdaus</h1>
 <h3 align="center">Passionate Python Developer</h3>
 
-<img align="right" alt="Coding" width="100" src="https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87" />
+<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

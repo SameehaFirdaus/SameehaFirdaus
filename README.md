@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4" alt="MasterHead" style="width: 100%; display: block;" />
+<img src="https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4" alt="MasterHead" style="width: 200%; display: block;" />
 
 <h1 align="center">Hi 👋, I'm Sameeha Firdaus</h1>
 <h3 align="center">Passionate Python Developer</h3>

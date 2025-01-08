@@ -1,10 +1,11 @@
-<img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)" alt="MasterHead" />
+<img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)"
+  "alt="MasterHead" />
 
 
 <h1 align="center">Hi 👋, I'm Sameeha Firdaus</h1>
 <h3 align="center">Passionate Python Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="![git](https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87)"
+<img align="right" alt="Coding" width="100" src="![git](https://github.com/user-attachments/assets/86fa753c-486c-4785-8f76-077b3f646b87)"
 ">
 
 <h3 align="left">Connect with me:</h3>
